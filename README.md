@@ -62,6 +62,3 @@ sh compile_op.sh
 
 - Start evaluation by:
       ``` bash sh test_meta.sh ```
-
-  You can evaluate different checkpoint by revising ``tst_mdl`` to the path of your target model.
-- **Pretrained model**: We provide our pre-trained models on onedrive, [link](https://cuny547-my.sharepoint.com/:u:/g/personal/zli3_gradcenter_cuny_edu/Eb29fBpSZz1IrydJphLG_q0ByKantwDF_NTc095w79J1Cw?e=aWKL3P). Download them and move them to their according folders. 
